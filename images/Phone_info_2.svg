@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 636 1253.5">
+  <defs>
+    <style>
+      .b, .c {
+        letter-spacing: 0em;
+      }
+
+      .d, .e, .f, .g, .h, .i, .j, .k, .l, .m {
+        font-family: GroldRoundedSlim-BoldItalic, 'Grold Rounded Slim';
+        font-style: italic;
+      }
+
+      .d, .n {
+        letter-spacing: -.01em;
+      }
+
+      .o {
+        letter-spacing: 0em;
+      }
+
+      .p {
+        letter-spacing: 0em;
+      }
+
+      .e, .q, .r {
+        letter-spacing: 0em;
+      }
+
+      .f {
+        letter-spacing: 0em;
+      }
+
+      .g, .s {
+        letter-spacing: 0em;
+      }
+
+      .h, .t {
+        letter-spacing: .02em;
+      }
+
+      .u, .r, .c, .v, .w {
+        font-family: GroldRoundedSlim-Bold, 'Grold Rounded Slim';
+      }
+
+      .u, .x {
+        letter-spacing: 0em;
+      }
+
+      .y, .z, .aa {
+        stroke-width: 0px;
+      }
+
+      .i, .ab {
+        letter-spacing: 0em;
+      }
+
+      .ac, .w {
+        letter-spacing: -.02em;
+      }
+
+      .ad, .m {
+        letter-spacing: 0em;
+      }
+
+      .ae, .af {
+        fill: none;
+        stroke: #ccc;
+        stroke-width: 5px;
+      }
+
+      .ae, .af, .ag, .ah {
+        stroke-miterlimit: 10;
+      }
+
+      .ai {
+        letter-spacing: 0em;
+      }
+
+      .z {
+        fill: #fff;
+      }
+
+      .aj {
+        letter-spacing: .02em;
+      }
+
+      .j {
+        letter-spacing: -.07em;
+      }
+
+      .aa {
+        fill: #2e3192;
+      }
+
+      .af {
+        stroke-linecap: round;
+      }
+
+      .k {
+        letter-spacing: 0em;
+      }
+
+      .ak {
+        font-size: 18px;
+        font-weight: 700;
+      }
+
+      .ag {
+        fill: #6347ff;
+      }
+
+      .ag, .ah {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .ah {
+        fill: #e46c50;
+      }
+
+      .al {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="y" x=".5" y="695" width="265" height="487" rx="21.94" ry="21.94"/>
+    <path class="y" d="m243.56,695.5c11.82,0,21.44,9.62,21.44,21.44v443.12c0,11.82-9.62,21.44-21.44,21.44H22.44c-11.82,0-21.44-9.62-21.44-21.44v-443.12c0-11.82,9.62-21.44,21.44-21.44h221.12m0-1H22.44c-12.39,0-22.44,10.05-22.44,22.44v443.12c0,12.39,10.05,22.44,22.44,22.44h221.12c12.39,0,22.44-10.05,22.44-22.44v-443.12c0-12.39-10.05-22.44-22.44-22.44h0Z"/>
+  </g>
+  <g>
+    <rect class="aa" x="20.5" y="745" width="225" height="371"/>
+    <path class="y" d="m245,745.5v370H21v-370h224m1-1H20v372h226v-372h0Z"/>
+  </g>
+  <g>
+    <circle class="z" cx="133.5" cy="1148" r="20"/>
+    <path class="y" d="m133.5,1128.5c10.75,0,19.5,8.75,19.5,19.5s-8.75,19.5-19.5,19.5-19.5-8.75-19.5-19.5,8.75-19.5,19.5-19.5m0-1c-11.32,0-20.5,9.18-20.5,20.5s9.18,20.5,20.5,20.5,20.5-9.18,20.5-20.5-9.18-20.5-20.5-20.5h0Z"/>
+  </g>
+  <g>
+    <rect class="y" x="370.5" y="50" width="265" height="487" rx="21.94" ry="21.94"/>
+    <path class="y" d="m613.56,50.5c11.82,0,21.44,9.62,21.44,21.44v443.12c0,11.82-9.62,21.44-21.44,21.44h-221.12c-11.82,0-21.44-9.62-21.44-21.44V71.94c0-11.82,9.62-21.44,21.44-21.44h221.12m0-1h-221.12c-12.39,0-22.44,10.05-22.44,22.44v443.12c0,12.39,10.05,22.44,22.44,22.44h221.12c12.39,0,22.44-10.05,22.44-22.44V71.94c0-12.39-10.05-22.44-22.44-22.44h0Z"/>
+  </g>
+  <g>
+    <rect class="aa" x="390.5" y="100" width="225" height="371"/>
+    <path class="y" d="m615,100.5v370h-224V100.5h224m1-1h-226v372h226V99.5h0Z"/>
+  </g>
+  <g>
+    <circle class="z" cx="503.5" cy="503" r="20"/>
+    <path class="y" d="m503.5,483.5c10.75,0,19.5,8.75,19.5,19.5s-8.75,19.5-19.5,19.5-19.5-8.75-19.5-19.5,8.75-19.5,19.5-19.5m0-1c-11.32,0-20.5,9.18-20.5,20.5s9.18,20.5,20.5,20.5,20.5-9.18,20.5-20.5-9.18-20.5-20.5-20.5h0Z"/>
+  </g>
+  <rect class="ag" x="396.5" y="351" width="213" height="116" rx="6.06" ry="6.06"/>
+  <rect class="ag" x="397" y="230.5" width="213" height="116" rx="6.06" ry="6.06"/>
+  <rect class="ag" x="396" y="110.5" width="213" height="116" rx="6.06" ry="6.06"/>
+  <rect class="ah" x="27" y="995.5" width="213" height="116" rx="6.06" ry="6.06"/>
+  <rect class="ah" x="27" y="875.5" width="213" height="116" rx="6.06" ry="6.06"/>
+  <rect class="ah" x="27" y="755.5" width="213" height="116" rx="6.06" ry="6.06"/>
+  <polyline class="af" points="502.5 168.5 457 132.5 339 132.5"/>
+  <rect class="af" x="88" y="2.5" width="255" height="135" rx="14.74" ry="14.74"/>
+  <polyline class="af" points="503.5 288.5 464 253.5 346.31 253.5 312 214.5 283 214.5"/>
+  <rect class="ae" x="27" y="209.5" width="260" height="160" rx="14.45" ry="14.45"/>
+  <polyline class="af" points="503 409 460 439.5 319 439.5"/>
+  <rect class="ae" x="56" y="435.5" width="268" height="165" rx="14.23" ry="14.23"/>
+  <polyline class="af" points="134 819 179.5 783 297.5 783"/>
+  <rect class="af" x="293.5" y="653" width="255" height="135" rx="14.74" ry="14.74" transform="translate(842 1441) rotate(-180)"/>
+  <polyline class="af" points="133 939 172.5 904 290.19 904 324.5 865 353.5 865"/>
+  <rect class="ae" x="349.5" y="860" width="260" height="160" rx="14.45" ry="14.45" transform="translate(959 1880) rotate(-180)"/>
+  <polyline class="af" points="133.5 1059.5 176.5 1090 317.5 1090"/>
+  <rect class="ae" x="312.5" y="1086" width="268" height="165" rx="14.23" ry="14.23" transform="translate(893 2337) rotate(-180)"/>
+  <text class="ak" transform="translate(105 29.6)"><tspan class="l" x="0" y="0">Main ope</tspan><tspan class="e" x="63.16" y="0">r</tspan><tspan class="l" x="69.3" y="0">ating </tspan><tspan class="m" x="109.69" y="0">s</tspan><tspan class="f" x="116.8" y="0">y</tspan><tspan class="l" x="124.54" y="0">stem </tspan><tspan class="v" x="161.12" y="0">handles </tspan><tspan class="v"><tspan class="q" x="0" y="21.6">e</tspan><tspan class="ac" x="8.06" y="21.6">v</tspan><tspan x="15.61" y="21.6">e</tspan><tspan class="t" x="23.76" y="21.6">r</tspan><tspan x="30.35" y="21.6">y applications </tspan><tspan class="b" x="133.02" y="21.6">r</tspan><tspan class="p" x="139.1" y="21.6">e</tspan><tspan x="147.33" y="21.6">quest in an </tspan></tspan><tspan class="v"><tspan x="0" y="43.2">i</tspan><tspan class="q" x="4.5" y="43.2">s</tspan><tspan x="11.7" y="43.2">olat</tspan><tspan class="s" x="40.14" y="43.2">e</tspan><tspan x="48.37" y="43.2">d manner and p</tspan><tspan class="o" x="155.14" y="43.2">r</tspan><tspan class="ad" x="161.31" y="43.2">o</tspan><tspan x="169.81" y="43.2">vides </tspan></tspan><tspan class="v"><tspan x="0" y="64.8">no means </tspan><tspan class="ad" x="68.34" y="64.8">o</tspan><tspan x="76.84" y="64.8">f co</tspan><tspan class="q" x="102.74" y="64.8">n</tspan><tspan x="111.2" y="64.8">t</tspan><tspan class="ai" x="117.29" y="64.8">r</tspan><tspan x="123.46" y="64.8">ol </tspan><tspan class="ac" x="139.53" y="64.8">f</tspan><tspan x="145.35" y="64.8">or thi</tspan><tspan class="al" x="182.28" y="64.8">r</tspan><tspan x="188.42" y="64.8">d </tspan></tspan><tspan class="v"><tspan x="0" y="86.4">pa</tspan><tspan class="t" x="18.36" y="86.4">r</tspan><tspan x="24.95" y="86.4">ties</tspan></tspan></text>
+  <text class="ak" transform="translate(51.11 241.28)"><tspan class="j" x="0" y="0">T</tspan><tspan class="l" x="7.58" y="0">rust</tspan><tspan class="g" x="35.64" y="0">e</tspan><tspan class="l" x="43.87" y="0">d </tspan><tspan class="e" x="55.94" y="0">s</tspan><tspan class="m" x="63.14" y="0">o</tspan><tspan class="k" x="71.64" y="0">f</tspan><tspan class="l" x="77.81" y="0">t</tspan><tspan class="d" x="83.9" y="0">w</tspan><tspan class="l" x="94.73" y="0">a</tspan><tspan class="i" x="103.91" y="0">r</tspan><tspan class="l" x="110" y="0">e</tspan><tspan class="v" x="118.15" y="0" xml:space="preserve"> that doesn’t </tspan><tspan class="v"><tspan x="0" y="21.6">do a</tspan><tspan class="ad" x="29.93" y="21.6">n</tspan><tspan class="aj" x="38.3" y="21.6">y</tspan><tspan x="46.39" y="21.6">thing mo</tspan><tspan class="b" x="106.97" y="21.6">r</tspan><tspan x="113.06" y="21.6">e than it </tspan></tspan><tspan class="v"><tspan x="0" y="43.2">n</tspan><tspan class="q" x="8.55" y="43.2">e</tspan><tspan class="s" x="16.61" y="43.2">e</tspan><tspan x="24.84" y="43.2">ds to p</tspan><tspan class="o" x="71.04" y="43.2">r</tspan><tspan class="ad" x="77.22" y="43.2">o</tspan><tspan x="85.71" y="43.2">vide </tspan><tspan class="q" x="118.26" y="43.2">s</tspan><tspan x="125.46" y="43.2">ecuri</tspan><tspan class="aj" x="161.04" y="43.2">t</tspan><tspan x="167.4" y="43.2">y </tspan><tspan class="ac" x="178.11" y="43.2">f</tspan><tspan x="183.92" y="43.2">or </tspan></tspan><tspan class="v"><tspan x="0" y="64.8">the u</tspan><tspan class="q" x="34.15" y="64.8">s</tspan><tspan x="41.35" y="64.8">er</tspan></tspan></text>
+  <text class="ak" transform="translate(84.11 469.28)"><tspan class="l" x="0" y="0">C</tspan><tspan class="h" x="10.96" y="0">r</tspan><tspan class="l" x="17.55" y="0">y</tspan><tspan class="e" x="25.36" y="0">p</tspan><tspan class="l" x="34.45" y="0">tog</tspan><tspan class="e" x="58.39" y="0">r</tspan><tspan class="l" x="64.53" y="0">aphic </tspan><tspan class="m" x="107.08" y="0">k</tspan><tspan class="l" x="115.07" y="0">e</tspan><tspan class="f" x="123.23" y="0">y</tspan><tspan class="l" x="130.97" y="0">s</tspan><tspan class="v" x="138.26" y="0" xml:space="preserve"> that a</tspan><tspan class="c" x="183.13" y="0">r</tspan><tspan class="v" x="189.21" y="0">e </tspan><tspan class="v"><tspan x="0" y="21.6">n</tspan><tspan class="ad" x="8.55" y="21.6">o</tspan><tspan x="17.05" y="21.6">t kn</tspan><tspan class="n" x="42.75" y="21.6">o</tspan><tspan x="51.25" y="21.6">wn or able to be </tspan></tspan><tspan class="v"><tspan class="b" x="0" y="43.2">r</tspan><tspan x="6.08" y="43.2">etri</tspan><tspan class="q" x="31.05" y="43.2">e</tspan><tspan class="ac" x="39.11" y="43.2">v</tspan><tspan class="p" x="46.66" y="43.2">e</tspan><tspan x="54.88" y="43.2">d </tspan><tspan class="ac" x="66.96" y="43.2">b</tspan><tspan x="75.87" y="43.2">y the manu</tspan><tspan class="n" x="150.6" y="43.2">f</tspan><tspan x="156.51" y="43.2">actu</tspan><tspan class="ab" x="188.48" y="43.2">r</tspan><tspan x="194.56" y="43.2">er </tspan></tspan><tspan class="v"><tspan x="0" y="64.8">or a</tspan><tspan class="ad" x="26.98" y="64.8">n</tspan><tspan x="35.35" y="64.8">y g</tspan><tspan class="n" x="55.24" y="64.8">o</tspan><tspan class="ac" x="63.74" y="64.8">v</tspan><tspan x="71.28" y="64.8">ernme</tspan><tspan class="q" x="114.51" y="64.8">n</tspan><tspan x="122.97" y="64.8">t</tspan></tspan></text>
+  <text class="ak" transform="translate(307 688.06)"><tspan class="l" x="0" y="0">Main ope</tspan><tspan class="e" x="63.16" y="0">r</tspan><tspan class="l" x="69.3" y="0">ating </tspan><tspan class="m" x="109.69" y="0">s</tspan><tspan class="f" x="116.8" y="0">y</tspan><tspan class="l" x="124.54" y="0">stem </tspan><tspan class="v" x="161.12" y="0">e</tspan><tspan class="r" x="169.27" y="0">n</tspan><tspan class="w" x="177.73" y="0">f</tspan><tspan class="v" x="183.54" y="0">o</tspan><tspan class="c" x="192.22" y="0">r</tspan><tspan class="v" x="198.3" y="0">ces </tspan><tspan class="v"><tspan x="0" y="21.6">cen</tspan><tspan class="q" x="24.95" y="21.6">s</tspan><tspan x="32.15" y="21.6">orship or p</tspan><tspan class="o" x="106.45" y="21.6">r</tspan><tspan class="n" x="112.62" y="21.6">o</tspan><tspan x="121.12" y="21.6">vides means </tspan><tspan class="ac" x="209.17" y="21.6">f</tspan><tspan x="214.99" y="21.6">or </tspan></tspan><tspan class="v"><tspan x="0" y="43.2">a manu</tspan><tspan class="ad" x="50.42" y="43.2">f</tspan><tspan x="56.32" y="43.2">actu</tspan><tspan class="b" x="88.29" y="43.2">r</tspan><tspan x="94.37" y="43.2">er or g</tspan><tspan class="n" x="138.63" y="43.2">o</tspan><tspan class="ac" x="147.13" y="43.2">v</tspan><tspan x="154.67" y="43.2">ernme</tspan><tspan class="al" x="197.91" y="43.2">n</tspan><tspan x="206.37" y="43.2">t to </tspan></tspan><tspan class="v"><tspan x="0" y="64.8">p</tspan><tspan class="b" x="9.18" y="64.8">r</tspan><tspan class="q" x="15.26" y="64.8">e</tspan><tspan class="ac" x="23.33" y="64.8">v</tspan><tspan x="30.87" y="64.8">e</tspan><tspan class="q" x="39.02" y="64.8">n</tspan><tspan x="47.48" y="64.8">t pri</tspan><tspan class="ad" x="76.37" y="64.8">v</tspan><tspan x="84.01" y="64.8">acy per</tspan><tspan class="q" x="135.7" y="64.8">s</tspan><tspan x="142.9" y="64.8">e</tspan><tspan class="t" x="151.05" y="64.8">r</tspan><tspan x="157.64" y="64.8">ving apps</tspan></tspan></text>
+  <text class="ak" transform="translate(374.11 891.17)"><tspan class="j" x="0" y="0">T</tspan><tspan class="l" x="7.58" y="0">rust</tspan><tspan class="g" x="35.64" y="0">e</tspan><tspan class="l" x="43.87" y="0">d </tspan><tspan class="e" x="55.94" y="0">s</tspan><tspan class="m" x="63.14" y="0">o</tspan><tspan class="k" x="71.64" y="0">f</tspan><tspan class="l" x="77.81" y="0">t</tspan><tspan class="d" x="83.9" y="0">w</tspan><tspan class="l" x="94.73" y="0">a</tspan><tspan class="i" x="103.91" y="0">r</tspan><tspan class="l" x="110" y="0">e</tspan><tspan class="v" x="118.15" y="0" xml:space="preserve"> that </tspan><tspan class="r" x="153.84" y="0">s</tspan><tspan class="v" x="161.04" y="0">e</tspan><tspan class="u" x="169.2" y="0">t</tspan><tspan class="v" x="175.46" y="0">s </tspan><tspan class="v"><tspan x="0" y="21.6">cen</tspan><tspan class="q" x="24.95" y="21.6">s</tspan><tspan x="32.15" y="21.6">orship or p</tspan><tspan class="b" x="106.45" y="21.6">r</tspan><tspan class="q" x="112.53" y="21.6">e</tspan><tspan class="ac" x="120.6" y="21.6">v</tspan><tspan x="128.14" y="21.6">e</tspan><tspan class="al" x="136.29" y="21.6">n</tspan><tspan x="144.75" y="21.6">ting the </tspan></tspan><tspan class="v"><tspan x="0" y="43.2">u</tspan><tspan class="q" x="8.46" y="43.2">s</tspan><tspan x="15.66" y="43.2">e or ef</tspan><tspan class="ac" x="58.75" y="43.2">f</tspan><tspan x="64.57" y="43.2">ecti</tspan><tspan class="ac" x="91.55" y="43.2">v</tspan><tspan x="99.09" y="43.2">eness </tspan><tspan class="ad" x="141.42" y="43.2">o</tspan><tspan x="149.92" y="43.2">f a</tspan><tspan class="n" x="168.08" y="43.2">n</tspan><tspan x="176.45" y="43.2">y </tspan></tspan><tspan class="v"><tspan x="0" y="64.8">pri</tspan><tspan class="ad" x="19.91" y="64.8">v</tspan><tspan x="27.54" y="64.8">acy p</tspan><tspan class="ai" x="64.85" y="64.8">r</tspan><tspan class="ad" x="71.03" y="64.8">o</tspan><tspan x="79.52" y="64.8">viding apps as i</tspan><tspan class="x" x="187.74" y="64.8">t</tspan><tspan x="194" y="64.8">s </tspan></tspan><tspan class="v"><tspan x="0" y="86.4">goal</tspan></tspan></text>
+  <text class="ak" transform="translate(341.11 1119.38)"><tspan class="l" x="0" y="0">C</tspan><tspan class="h" x="10.96" y="0">r</tspan><tspan class="l" x="17.55" y="0">y</tspan><tspan class="e" x="25.36" y="0">p</tspan><tspan class="l" x="34.45" y="0">tog</tspan><tspan class="e" x="58.39" y="0">r</tspan><tspan class="l" x="64.53" y="0">aphic </tspan><tspan class="m" x="107.08" y="0">k</tspan><tspan class="l" x="115.07" y="0">e</tspan><tspan class="f" x="123.23" y="0">y</tspan><tspan class="l" x="130.97" y="0">s</tspan><tspan class="v" x="138.26" y="0" xml:space="preserve"> that a</tspan><tspan class="c" x="183.13" y="0">r</tspan><tspan class="v" x="189.21" y="0">e </tspan><tspan class="v"><tspan x="0" y="21.6">deri</tspan><tspan class="ad" x="28.06" y="21.6">v</tspan><tspan x="35.69" y="21.6">able </tspan><tspan class="ac" x="69.6" y="21.6">b</tspan><tspan x="78.51" y="21.6">y manu</tspan><tspan class="n" x="127.56" y="21.6">f</tspan><tspan x="133.47" y="21.6">actu</tspan><tspan class="b" x="165.44" y="21.6">r</tspan><tspan x="171.52" y="21.6">ers or </tspan></tspan><tspan class="v"><tspan x="0" y="43.2">g</tspan><tspan class="ad" x="9.18" y="43.2">o</tspan><tspan class="ac" x="17.68" y="43.2">v</tspan><tspan x="25.22" y="43.2">ernme</tspan><tspan class="q" x="68.45" y="43.2">n</tspan><tspan class="x" x="76.91" y="43.2">t</tspan><tspan class="ad" x="83.18" y="43.2">s</tspan><tspan x="90.29" y="43.2">, either </tspan><tspan class="b" x="143.4" y="43.2">r</tspan><tspan x="149.49" y="43.2">em</tspan><tspan class="n" x="169.79" y="43.2">o</tspan><tspan x="178.29" y="43.2">tely </tspan></tspan><tspan class="v"><tspan x="0" y="64.8">or locally</tspan></tspan></text>
+  <image width="618" height="618" transform="translate(102 1116.5) scale(.1)" xlink:href="../Downloads/1F61F_color.png"/>
+  <image width="618" height="618" transform="translate(472 469.5) scale(.11)" xlink:href="../Downloads/1F603_color.png"/>
+</svg>
