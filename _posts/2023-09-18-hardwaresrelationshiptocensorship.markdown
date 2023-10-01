@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can You Trust Your Phone?"
+title:  "Introduction to Hardware Restrictions: Can You Trust Your Phone?"
 date:   2023-09-25 18:27:29 -0700
 categories: jekyll update
 ---
@@ -23,7 +23,17 @@ _____ Below is largely TODO _____
 
 ...thwarting privacy apps through os, thwarting security/privacy through os, providing means of censorship through os
 
-### Hardware restrictions
+### Hardware restrictions and information controls
+This blog is about how something called hardware restrictions might give manufacturers or other interested parties the ability to introduce information controls. But what are information controls, and what are hardware restrictions?
+#### Information controls
+Previously, we saw examples on how every level in the complex machines we call phones is an opportunity for a manufacturer or other entity in control of the design process such as a parts manufacturer or government to implement capabilities that either control or monitor the information that our phones send, receive, and store-- we call these capabilities "information controls". Information controls are usually implemented on networks or through import/export laws in a country, but with the increasing level on control in modern phones the cost for implementing controls on phones may be dropping sharply.
+#### Hardware restrictions
+In the past users have been able to modify the behavior or code of applications on their devices. They could download and run other peoples applications directly from the source, and could easily make applications that access whatever information they wanted which they could then distribute however they wished for whoever to download and run. The user could take control of any application on their device, which meant an application was subject to the users intentions. The user could design or download their own operating system and run it on their hardware. The user was in charge of either designing a method to keep their device secure or picking a party that they trusted (usually an operating system vendor) to decide the strategy. With modern phones and hardware-based restrictions of the users capability, this agency or freedom of the user is often not only no longer the default shipped on devices, it is not available at all.
+##### Why?
+When we mentioned the three concepts from before (<A href="#cryptographic-keys">"cryptographic keys"</A>, <A href="#trusted-software">"trusted software"</A>, and <A href="#main-operating-system">"main operating system"</A>) we talked briefly about how they were designed with security  in mind. In most cases the users security is the driving force for design patterns, but in some cases security decisions are not purely for the the users security and the pursuit of security in modern devices has sometimes even meant the sacrifice of the users agency. This sacrifice of users' agency can provide obscurity for the device manufacturers security, and can stop certain unwanted parties from accessing the device-- such as hackers who have physical access to the device, or hackers who have compromised an application on the device. It can also stop social engineering attacks, a type of hacking strategy in which the hacker attempts to convince the user to compromise their own system; since users do not have the ability to compromise their own system, they cannot be convinced to do so by strangers. However, these designs also make room for some capabilities that have are seemingly motivated by the profit of the manufacturer; these capabilities allow security models like Digital Rights Management or DRM, in which the main security objective is to protect the code from the user so that digital content such as songs/movies/games can be delivered to a device without risk of piracy or even fair-use alterations. Another capability seen is the strategy to lock users in to certain application distributors or "app stores", which can deny the user the ability to access certain information or content but in exchange gives the manufacturer the ability to take a cut of app sales and ensure only apps that have passed certain security and usability standards may exist on the device. Other capabilities exist in the form of anti-cheat for games, region locking devices, locking devices into certain carriers, 'jailbreak' or 'root' detection and more.
+##### How?
+...Public researchers have no more access than regular users and as such there is a scattered history of analysis on the capability of these designs...
+
 Where they come in, how they make it harder to trust the above things since they are sometimes determined at the factory
 
 > Infograph of hardware restrictions goes here
