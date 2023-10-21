@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The relationship between hardware and information controls
+title: Trusting Hardware
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is the base for a blog on a research project examining the relationship between hardware restrictions and information controls. To learn more about what these things are consider reading our first post: 
+  This site is the main blog for a research project examining the relationship between hardware restrictions and information controls. To learn more about what these things are consider reading our first post: <A href="https://trustinghardware.com/jekyll/update/2023/10/21/hardwaresrelationshiptocensorship.html">site</A>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://trustinghardware.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  joshb-otf
-
 # Build settings
 theme: minima
 plugins:
