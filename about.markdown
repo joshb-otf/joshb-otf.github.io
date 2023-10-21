@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is for documenting a research project that follows the exploration of the relationship between hardware restrictions and information controls-- particularly relating to their potential as a means for governments or organizations to use them as a means of expanding existing information controls.
-
+This site is for documenting a research project that follows the exploration of the relationship between hardware restrictions and information controls-- particularly relating to their potential as a means for governments or organizations to expand existing information controls.
 
 <style>
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
